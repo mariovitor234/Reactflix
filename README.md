@@ -3,9 +3,11 @@
 ## Projeto Base:
 
 [Cryptoflix] (https://github.com/deborapolesel/Cryptoflix)
-Por [Débora Polesel] (https://github.com/deborapolesel)
+Por [Débora Polesel](https://github.com/deborapolesel)
 
-## Website: 
+## Website:
+
+<img alt="Reactflix demo" src="https://github.com/LizzardMedeiros/Reactflix/blob/master/media/meta.png?raw=true" />
 
 Confira o trabalho pelo [Github Pages](https://lizzardmedeiros.github.io/Reactflix/).
 
