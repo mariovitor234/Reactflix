@@ -7,7 +7,7 @@ Por [Débora Polesel](https://github.com/deborapolesel)
 
 ## Website:
 
-<img alt="Reactflix demo" src="https://github.com/LizzardMedeiros/Reactflix/blob/master/media/meta.png?raw=true" />
+<img alt="Reactflix demo" src="https://github.com/LizzardMedeiros/Reactflix/blob/master/media/demo.png?raw=true" />
 
 Confira o trabalho pelo [Github Pages](https://lizzardmedeiros.github.io/Reactflix/).
 
