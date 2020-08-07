@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4143e94c86beac4d233169eb4f049f4",
+    "revision": "e6dbea8d6c5eb2d7ebd2e1f89d057cef",
     "url": "/Reactflix/index.html"
   },
   {
-    "revision": "9ef38809977fdf4cb623",
+    "revision": "6997cd3fe93bcece5cec",
     "url": "/Reactflix/static/css/main.71ec20e9.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactflix/static/js/2.4c71e8f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9ef38809977fdf4cb623",
-    "url": "/Reactflix/static/js/main.ac65f468.chunk.js"
+    "revision": "6997cd3fe93bcece5cec",
+    "url": "/Reactflix/static/js/main.b95a1e8d.chunk.js"
   },
   {
     "revision": "01879d0643958fe96555",
     "url": "/Reactflix/static/js/runtime-main.b9a65e6b.js"
   },
   {
-    "revision": "15389af31963027e9172f3b1c78962d8",
-    "url": "/Reactflix/static/media/logo.15389af3.svg"
+    "revision": "d82863cb52a923ef5efdee90384936dc",
+    "url": "/Reactflix/static/media/logo.d82863cb.svg"
   }
 ]);
