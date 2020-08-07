@@ -2,7 +2,7 @@
 
 ## Projeto Base:
 
-[Cryptoflix] (https://github.com/deborapolesel/Cryptoflix)
+[Cryptoflix](https://github.com/deborapolesel/Cryptoflix)
 Por [Débora Polesel](https://github.com/deborapolesel)
 
 ## Website:
