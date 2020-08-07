@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LizzardMedeiros/Reactflix/precache-manifest.6b36b9cb34419f2c7276aaaa431f4ee5.js"
+  "/LizzardMedeiros/Reactflix/precache-manifest.3be132f8d5c5dd2f60612a4550831c43.js"
 );
 
 self.addEventListener('message', (event) => {

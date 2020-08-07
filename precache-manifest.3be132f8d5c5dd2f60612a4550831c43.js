@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "815e8005157a57d250a16f68c2c05273",
+    "revision": "fc9d97f15acd2aee082aedd508ae92d1",
     "url": "/LizzardMedeiros/Reactflix/index.html"
   },
   {
-    "revision": "2ac413ae541129d4f867",
+    "revision": "e4cb3e34f7fb59d8a1b9",
     "url": "/LizzardMedeiros/Reactflix/static/css/main.71ec20e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LizzardMedeiros/Reactflix/static/js/2.580d2467.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ac413ae541129d4f867",
-    "url": "/LizzardMedeiros/Reactflix/static/js/main.143907b0.chunk.js"
+    "revision": "e4cb3e34f7fb59d8a1b9",
+    "url": "/LizzardMedeiros/Reactflix/static/js/main.dcd4697c.chunk.js"
   },
   {
     "revision": "2966694c73b50c237468",
