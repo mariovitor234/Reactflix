@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/css/main.71ec20e9.chunk.css",
-    "main.js": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/main.dcd4697c.chunk.js",
-    "main.js.map": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/main.dcd4697c.chunk.js.map",
-    "runtime-main.js": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/runtime-main.53f4f5c6.js",
-    "runtime-main.js.map": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/runtime-main.53f4f5c6.js.map",
-    "static/js/2.322012ae.chunk.js": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/2.322012ae.chunk.js",
-    "static/js/2.322012ae.chunk.js.map": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/2.322012ae.chunk.js.map",
-    "index.html": "/LizzardMedeiros/Reactflix/tree/gh-pages/index.html",
-    "precache-manifest.5f1284f9cb79f3675d560b046915b3b1.js": "/LizzardMedeiros/Reactflix/tree/gh-pages/precache-manifest.5f1284f9cb79f3675d560b046915b3b1.js",
-    "service-worker.js": "/LizzardMedeiros/Reactflix/tree/gh-pages/service-worker.js",
-    "static/css/main.71ec20e9.chunk.css.map": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/css/main.71ec20e9.chunk.css.map",
-    "static/js/2.322012ae.chunk.js.LICENSE.txt": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/js/2.322012ae.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/LizzardMedeiros/Reactflix/tree/gh-pages/static/media/logo.15389af3.svg"
+    "main.css": "/LizzardMedeiros/Reactflix/static/css/main.71ec20e9.chunk.css",
+    "main.js": "/LizzardMedeiros/Reactflix/static/js/main.dcd4697c.chunk.js",
+    "main.js.map": "/LizzardMedeiros/Reactflix/static/js/main.dcd4697c.chunk.js.map",
+    "runtime-main.js": "/LizzardMedeiros/Reactflix/static/js/runtime-main.635e88ff.js",
+    "runtime-main.js.map": "/LizzardMedeiros/Reactflix/static/js/runtime-main.635e88ff.js.map",
+    "static/js/2.580d2467.chunk.js": "/LizzardMedeiros/Reactflix/static/js/2.580d2467.chunk.js",
+    "static/js/2.580d2467.chunk.js.map": "/LizzardMedeiros/Reactflix/static/js/2.580d2467.chunk.js.map",
+    "index.html": "/LizzardMedeiros/Reactflix/index.html",
+    "precache-manifest.3be132f8d5c5dd2f60612a4550831c43.js": "/LizzardMedeiros/Reactflix/precache-manifest.3be132f8d5c5dd2f60612a4550831c43.js",
+    "service-worker.js": "/LizzardMedeiros/Reactflix/service-worker.js",
+    "static/css/main.71ec20e9.chunk.css.map": "/LizzardMedeiros/Reactflix/static/css/main.71ec20e9.chunk.css.map",
+    "static/js/2.580d2467.chunk.js.LICENSE.txt": "/LizzardMedeiros/Reactflix/static/js/2.580d2467.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LizzardMedeiros/Reactflix/static/media/logo.15389af3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.53f4f5c6.js",
-    "static/js/2.322012ae.chunk.js",
+    "static/js/runtime-main.635e88ff.js",
+    "static/js/2.580d2467.chunk.js",
     "static/css/main.71ec20e9.chunk.css",
     "static/js/main.dcd4697c.chunk.js"
   ]
