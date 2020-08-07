@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6dbea8d6c5eb2d7ebd2e1f89d057cef",
+    "revision": "4eb2426e4c6e345a3b16fbcfef05ae39",
     "url": "/Reactflix/index.html"
   },
   {
-    "revision": "6997cd3fe93bcece5cec",
+    "revision": "5235cb054008d6182b1b",
     "url": "/Reactflix/static/css/main.71ec20e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Reactflix/static/js/2.4c71e8f6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6997cd3fe93bcece5cec",
-    "url": "/Reactflix/static/js/main.b95a1e8d.chunk.js"
+    "revision": "5235cb054008d6182b1b",
+    "url": "/Reactflix/static/js/main.e1fbe685.chunk.js"
   },
   {
     "revision": "01879d0643958fe96555",
