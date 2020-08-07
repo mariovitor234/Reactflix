@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Reactflix/static/css/main.71ec20e9.chunk.css",
-    "main.js": "/Reactflix/static/js/main.dcd4697c.chunk.js",
-    "main.js.map": "/Reactflix/static/js/main.dcd4697c.chunk.js.map",
+    "main.js": "/Reactflix/static/js/main.ac65f468.chunk.js",
+    "main.js.map": "/Reactflix/static/js/main.ac65f468.chunk.js.map",
     "runtime-main.js": "/Reactflix/static/js/runtime-main.b9a65e6b.js",
     "runtime-main.js.map": "/Reactflix/static/js/runtime-main.b9a65e6b.js.map",
-    "static/js/2.e17b3323.chunk.js": "/Reactflix/static/js/2.e17b3323.chunk.js",
-    "static/js/2.e17b3323.chunk.js.map": "/Reactflix/static/js/2.e17b3323.chunk.js.map",
+    "static/js/2.4c71e8f6.chunk.js": "/Reactflix/static/js/2.4c71e8f6.chunk.js",
+    "static/js/2.4c71e8f6.chunk.js.map": "/Reactflix/static/js/2.4c71e8f6.chunk.js.map",
     "index.html": "/Reactflix/index.html",
-    "precache-manifest.c3c1dd7ec3210bcc2626a14e058407ce.js": "/Reactflix/precache-manifest.c3c1dd7ec3210bcc2626a14e058407ce.js",
+    "precache-manifest.64359dafd578efab88865efb8f324e30.js": "/Reactflix/precache-manifest.64359dafd578efab88865efb8f324e30.js",
     "service-worker.js": "/Reactflix/service-worker.js",
     "static/css/main.71ec20e9.chunk.css.map": "/Reactflix/static/css/main.71ec20e9.chunk.css.map",
-    "static/js/2.e17b3323.chunk.js.LICENSE.txt": "/Reactflix/static/js/2.e17b3323.chunk.js.LICENSE.txt",
+    "static/js/2.4c71e8f6.chunk.js.LICENSE.txt": "/Reactflix/static/js/2.4c71e8f6.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Reactflix/static/media/logo.15389af3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b9a65e6b.js",
-    "static/js/2.e17b3323.chunk.js",
+    "static/js/2.4c71e8f6.chunk.js",
     "static/css/main.71ec20e9.chunk.css",
-    "static/js/main.dcd4697c.chunk.js"
+    "static/js/main.ac65f468.chunk.js"
   ]
 }
