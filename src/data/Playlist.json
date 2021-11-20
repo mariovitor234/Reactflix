@@ -155,5 +155,15 @@
         "url": "https://www.youtube.com/watch?v=xA7Dri2H_pM"
       }
     ]
+  },
+  { //mario
+    "titulo": "Cursos recomendados",
+    "cor": "#6b5be2",
+    "videos": [
+      {
+        "titulo": "Web Moderno - Cod3r",
+        "url": "youtu.be/7OmSgTW1NMI"
+      }    
+    ]
   }
 ]
