@@ -155,5 +155,14 @@
         "url": "https://www.youtube.com/watch?v=xA7Dri2H_pM"
       }
     ]
+    {
+    "titulo": "Cursos", //mario
+    "cor": "#6b5be2",
+    "videos": [
+      {
+        "titulo": "Web Moderno - Trailer",
+        "url": "https://youtu.be/7OmSgTW1NMI"
+      },
+    ]
   }
 ]
